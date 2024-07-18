@@ -1,0 +1,138 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sách Hóa Học",
+      "description": "Mô tả sách Hóa Học",
+      "price": 120000,
+      "image": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Sách+Hóa+Học",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Sách Toán Học",
+      "description": "Mô tả sách Toán Học",
+      "price": 150000,
+      "image": "https://via.placeholder.com/150/33FF57/FFFFFF?text=Sách+Toán+Học",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Sách Lịch Sử",
+      "description": "Mô tả sách Lịch Sử",
+      "price": 90000,
+      "image": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Sách+Lịch+Sử",
+      "category": 2,
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Sách Văn Học 1",
+      "description": "Mô tả sách Văn Hoc 1",
+      "price": 110000,
+      "image": "https://via.placeholder.com/150/FFD133/FFFFFF?text=Sách+Văn+Học",
+      "category": 3,
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Sách Văn Học 2",
+      "description": "Mô tả sách Văn Học 2",
+      "price": 130000,
+      "image": "https://via.placeholder.com/150/FFD133/FFFFFF?text=Sách+Văn+Học",
+      "category": 3,
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Sách Nghệ Thuật",
+      "description": "Mô tả sách Nghệ Thuật",
+      "price": 180000,
+      "image": "https://via.placeholder.com/150/33FFD1/FFFFFF?text=Sách+Nghệ+Thuật",
+      "category": 3,
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "Sách Kinh Tế",
+      "description": "Mô tả sách Kinh Tế",
+      "price": 200000,
+      "image": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Sách+Kinh+Tế",
+      "category": 4,
+      "status": true
+    },
+    {
+      "id": 8,
+      "name": "Sách Tâm Lý Học",
+      "description": "Mô tả sách Tâm Lý Học",
+      "price": 170000,
+      "image": "https://via.placeholder.com/150/33FF57/FFFFFF?text=Sách+Tâm+Lý+Học",
+      "category": 4,
+      "status": true
+    },
+    {
+      "id": 9,
+      "name": "Sách Khoa Học Viễn Tưởng",
+      "description": "Mô tả sách Khoa Học Viễn Tưởng",
+      "price": 160000,
+      "image": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Sách+Khoa+Học+Viễn+Tưởng",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 10,
+      "name": "Sách Thiếu Nhi",
+      "description": "Mô tả sách Thiếu Nhi",
+      "price": 80000,
+      "image": "https://via.placeholder.com/150/FF33A1/FFFFFF?text=Sách+Thiếu+Nhi",
+      "category": 2,
+      "status": true
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Admin",
+      "email": "admin@example.com",
+      "username": "admin",
+      "password": "admin123",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "fullName": "Trần Quang Huy",
+      "email": "photott123@gmail.com",
+      "username": "user",
+      "password": "123",
+      "isAdmin": false
+    },
+    {
+      "id": 3,
+      "fullName": "Đinh Thái Dúi",
+      "email": "huy@test.com",
+      "username": "user1",
+      "password": "123",
+      "isAdmin": false
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Khoa Học"
+    },
+    {
+      "id": 2,
+      "name": "Xã Hội"
+    },
+    {
+      "id": 3,
+      "name": "Văn Học & Nghệ Thuật"
+    },
+    {
+      "id": 4,
+      "name": "Kinh Tế & Tâm Lý"
+    }
+  ]
+}
